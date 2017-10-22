@@ -117,6 +117,7 @@ derby.log
 
 ####### Repo .gitignore
 /ignore/
+/cv_aurora_baluja_files/
 *.Rmd
 *.txt
 *.jpg
