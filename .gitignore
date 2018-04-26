@@ -119,6 +119,7 @@ derby.log
 /ignore/
 /cache/
 /index_files/
+/data/
 /cv_aurora_baluja_files/
 *.Rmd
 *.jpg
